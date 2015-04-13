@@ -1,4 +1,4 @@
-postgres-whd
+postmongo
 ============
 
 Docker container for postgres that accepts remote connections from Docker IPs - all 172.17.0.1/16 IP addresses.
